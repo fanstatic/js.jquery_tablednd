@@ -1,0 +1,10 @@
+How to use?
+===========
+
+
+You can import ``jquery_tablednd`` from ``js.jquery_tablednd`` and ``need`` it
+where you want these resources to be included on a page::
+
+  >>> from js.jquery_tablednd import jquery_tablednd
+  >>> jquery_tablednd.need()
+
